@@ -1,7 +1,7 @@
 url: https://arara-core-payments-external-api-prod.gipsyy.com.br/internal/healthcheck
-status: down
-code: 403
-responseTime: 283
-lastUpdated: 2024-04-10T21:54:07.241Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2024-04-10T22:19:35.356Z
 startTime: 2024-04-10T19:34:09.268Z
 generator: Upptime <https://github.com/upptime/upptime>
