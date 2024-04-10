@@ -1,7 +1,7 @@
-url: https://arara-core-payments-external-api-prod.gipsyy.com.br/internal/healthcheck
-status: down
-code: 403
-responseTime: 182
-lastUpdated: 2024-04-10T20:28:31.667Z
+url: https://services.grability.rappi.com/api/cauth/revenue/access/proxy/health
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2024-04-10T21:33:06.584Z
 startTime: 2024-04-10T19:34:09.268Z
 generator: Upptime <https://github.com/upptime/upptime>
