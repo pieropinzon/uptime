@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 350,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arara-core-payments-external-api-prod.gipsyy.com.br.ico",
     "slug": "arara-payments",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "uptime": "28.28%",
+    "uptimeDay": "28.28%",
+    "uptimeWeek": "28.28%",
+    "uptimeMonth": "28.28%",
+    "uptimeYear": "28.28%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 39
     }
   },
   {
