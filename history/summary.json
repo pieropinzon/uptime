@@ -58,19 +58,19 @@
     "url": "https://arara-core-payments-external-api-prod.gipsyy.com.br/internal/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/arara-core-payments-external-api-prod.gipsyy.com.br.ico",
     "slug": "arara-payments",
-    "status": "down",
-    "uptime": "5.79%",
-    "uptimeDay": "5.79%",
-    "uptimeWeek": "5.79%",
-    "uptimeMonth": "5.79%",
-    "uptimeYear": "5.79%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "1.10%",
+    "uptimeDay": "1.10%",
+    "uptimeWeek": "1.10%",
+    "uptimeMonth": "1.10%",
+    "uptimeYear": "1.10%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 7
     }
   },
   {
