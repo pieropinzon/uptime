@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Arara Payments
-    url: https://arara-core-payments-external-api-prod.gipsyy.com.br/internal/healthcheck
+    url: "https://arara-core-payments-external-api-prod.gipsyy.com.br/internal/healthcheck"
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
