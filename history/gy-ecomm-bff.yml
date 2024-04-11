@@ -1,7 +1,7 @@
 url: https://gy-ecomm-bff-ms.gipsyy.com.br/api/gy-ecomm-bff-ms/health
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2024-04-11T18:29:25.663Z
+status: down
+code: 403
+responseTime: 190
+lastUpdated: 2024-04-11T18:42:20.873Z
 startTime: 2024-04-11T14:32:11.790Z
 generator: Upptime <https://github.com/upptime/upptime>
