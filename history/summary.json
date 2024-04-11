@@ -58,19 +58,19 @@
     "url": "https://gy-ecomm-bff-ms.gipsyy.com.br/api/gy-ecomm-bff-ms/health",
     "icon": "https://icons.duckduckgo.com/ip3/gy-ecomm-bff-ms.gipsyy.com.br.ico",
     "slug": "gy-ecomm-bff",
-    "status": "down",
-    "uptime": "31.15%",
-    "uptimeDay": "31.15%",
-    "uptimeWeek": "31.15%",
-    "uptimeMonth": "31.15%",
-    "uptimeYear": "31.15%",
-    "time": 314,
-    "timeDay": 314,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "29.66%",
+    "uptimeDay": "29.66%",
+    "uptimeWeek": "29.66%",
+    "uptimeMonth": "29.66%",
+    "uptimeYear": "29.66%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2024-04-11": 173
+      "2024-04-11": 186
     }
   },
   {
