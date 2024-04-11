@@ -11,6 +11,7 @@ sites:
     url: https://news.ycombinator.com
   - name: gy-ecomm-bff
     url: https://gy-ecomm-bff-ms.gipsyy.com.br/api/gy-ecomm-bff-ms/health
+    method: GET
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
