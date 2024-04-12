@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gy-ecomm-bff-ms.gipsyy.com.br.ico",
     "slug": "gy-ecomm-bff",
     "status": "down",
-    "uptime": "42.82%",
-    "uptimeDay": "42.82%",
-    "uptimeWeek": "42.82%",
-    "uptimeMonth": "42.82%",
-    "uptimeYear": "42.82%",
+    "uptime": "36.94%",
+    "uptimeDay": "36.94%",
+    "uptimeWeek": "36.94%",
+    "uptimeMonth": "36.94%",
+    "uptimeYear": "36.94%",
     "time": 306,
     "timeDay": 306,
     "timeWeek": 306,
     "timeMonth": 306,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-04-11": 311
+      "2024-04-12": 61,
+      "2024-04-11": 337
     }
   },
   {
