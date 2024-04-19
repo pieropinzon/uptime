@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: gy-ecomm-bff
+  - name: comms
     url: https://api-dev.araraholding.com/api/comms/health
     method: GET
   - name: Test Broken Site
