@@ -9,9 +9,9 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: comms
-    url: https://api-dev.araraholding.com/api/comms/health
-    method: GET
+  #- name: comms
+  #  url: https://api-dev.araraholding.com/api/comms/health
+  #  method: GET
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
