@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 203,
-    "timeWeek": 170,
+    "timeWeek": 155,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 155,
-    "timeWeek": 272,
+    "timeWeek": 283,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {}
@@ -40,9 +40,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 300,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 0
+    }
   },
   {
     "name": "comms",
@@ -59,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.araraholding.com.ico",
     "slug": "comms",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "83.99%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "18.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "18.77%",
+    "uptimeMonth": "18.77%",
+    "uptimeYear": "18.77%",
     "time": 197,
-    "timeDay": 286,
-    "timeWeek": 197,
+    "timeDay": 208,
+    "timeWeek": 200,
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
